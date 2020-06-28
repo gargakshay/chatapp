@@ -1,0 +1,13 @@
+{
+    "name": "Chat app",
+    "short_name": "Chat app 😎",
+    "description": "Basic page chat app Epifi",
+    "start_url": "/",
+    "background_color": "#000000",
+    "theme_color": "#0f4a73",
+    "display": "fullscreen",
+    "icons": [{
+      "src": "icon.png",
+      "type": "image/png"
+    }]
+  }
